@@ -4,7 +4,8 @@
   "description": "基于node.js+express+sequelize+mysql后端通用模板",
   "main": "index.js",
   "scripts": {
-    "dev": "node app.js"
+    "dev": "node app.js",
+    "model": "node model/sequelize.model.js"
   },
   "keywords": [],
   "author": "",
